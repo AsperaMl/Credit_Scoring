@@ -1,0 +1,1 @@
+{'boosting_type': 0, 'colsample_bytree': 0.7420924529192455, 'learning_rate': 0.02639565625679032, 'max_depth': 37.0, 'min_child_samples': 20.0, 'n_estimators': 800.0, 'num_leaves': 105.0, 'reg_alpha': 3.4332584837247335, 'reg_lambda': 0.3023263429485403, 'subsample': 0.9068277038201439}

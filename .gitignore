@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.venv/etc
+.venv/
+*.csv
+__pycache__/
+*.pyc
+.idea/
+/datasets/
+/models/airflow_deploy/logs/
+/models/joblib_models/

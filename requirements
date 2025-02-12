@@ -1,0 +1,28 @@
+# Обработка и анализ данных
+pandas
+numpy
+
+# Визуализация данных
+matplotlib
+seaborn
+
+# Обработка текстов (TF-IDF для описаний фильмов)
+scikit-learn
+
+# Модель и метрики
+scipy
+lightfm
+gensim
+
+# Для работы с большими CSV файлами
+pyarrow
+fastparquet
+
+# Кросс-валидация и контроль качества модели
+tqdm
+
+# Опциональные библиотеки
+jupyter
+notebook
+
+#pip freeze > requirements.txt
